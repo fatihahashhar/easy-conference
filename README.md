@@ -22,7 +22,7 @@ EasyConference is a mobile-based platform that allows users to register for conf
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/easyconference.git
+   git clone https://github.com/fatihahashhar/easyconference.git
    cd easyconference
 
 2. Install Dependencies
@@ -35,17 +35,12 @@ EasyConference is a mobile-based platform that allows users to register for conf
     ```bash
     flutter run
 
-## Screenshots
-Add some screenshots of the app here (optional).
-
 ## How It Works
 
 **For Users:**
 - Users can register for a conference using the mobile application.
-- After registration, their details are stored in the app's SQLite database for easy access by organizers.
-
-**For Organizers:**
-- Organizers can log in to the platform and manage their conferences.
+- After registration, their details are stored in the app's SQLite database.
+- Users can log in to the platform and manage their conferences.
 - Features include adding participants, assigning roles (presenter, reviewer, judge), and overseeing event details.
 
 ## Future Enhancements
